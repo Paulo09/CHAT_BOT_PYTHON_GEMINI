@@ -2,6 +2,13 @@
 CHAT_BOT_PYTHON_GEMINI
 
 
+Certifique-se de instalar os módulos necessários antes de rodar o código. Você pode instalar o Streamlit e o Geminipy usando o pip:
+
+Install
+
+pip install streamlit geminipy
+
+
 Para criar um chatbot com a linguagem Python e interação com a API Gemini usando Streamlit, você pode seguir o exemplo de código abaixo:
 
 python
