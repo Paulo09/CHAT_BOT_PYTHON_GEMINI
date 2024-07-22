@@ -8,7 +8,7 @@ Python: Instale a versão mais recente do Python (https://www.python.org/).
 Ambiente virtual: Recomenda-se criar um ambiente virtual para isolar as dependências do projeto.
 Bibliotecas: Instale as seguintes bibliotecas:
 Bash
-pip install streamlit openai
+pip install streamlit geminipy
 Use o código com cuidado.
 
 Chave de API do Gemini: Obtenha sua chave de API no console do Google Cloud.
